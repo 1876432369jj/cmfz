@@ -7,5 +7,6 @@ public class Test {
         System.out.println("希望大家可以支持我的作品‘鸭你太美’");
         System.out.println("jiya  taimei");
         System.out.println("你好，蔡训坤，我是丧坤");
+        System.out.println("你好，丧坤，我是蔡徐坤");
     }
 }
