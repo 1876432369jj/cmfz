@@ -9,7 +9,5 @@ public class Test {
         System.out.println("你好，蔡训坤，我是丧坤");
         System.out.println("你好，丧坤，我是蔡徐坤");
         System.out.println("学习Git的第二天");
-
-
     }
 }
